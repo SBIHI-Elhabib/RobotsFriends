@@ -1,0 +1,12 @@
+.Card{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: aqua;
+    align-items: center;
+    padding:10px ;
+    margin: 20px;
+    width: 300px;
+    border-radius: 10px;
+}
