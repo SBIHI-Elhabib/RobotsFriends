@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import CardList from "./CardList.jsx";
 import SearchBox from "./SearchBox.jsx";
+import Scroll from "./Scroll.jsx";
+
 class App extends Component{
 
     constructor(){
@@ -32,8 +34,10 @@ class App extends Component{
             <h1>RoboFriends</h1>
             
             <SearchBox searchChange={this.OnSearchEvent} />
-
-            <CardList robots={FiltredArray} />
+            <Scroll>
+                <CardList robots={FiltredArray} />
+            </Scroll>
+            
             </>
             
         )
