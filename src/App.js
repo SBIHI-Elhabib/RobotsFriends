@@ -24,6 +24,8 @@ class App extends Component{
         })
         return(
             <>
+            <h1>RoboFriends</h1>
+            
             <SearchBox searchChange={this.OnSearchEvent} />
 
             <CardList robots={FiltredArray} />

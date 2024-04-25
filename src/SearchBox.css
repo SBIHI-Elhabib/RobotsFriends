@@ -1,8 +1,14 @@
-input{
+.input input{
 border-radius: 10px;
-background-color: black;
+background-color: cornflowerblue;
 color:white ;
 padding: 10px;
-width: 200px;
-margin: 10px;
+width: 300px;
+margin: 30px;
+border: none;
+height: 40px;
+
 }
+::placeholder {
+    color: white;
+  }

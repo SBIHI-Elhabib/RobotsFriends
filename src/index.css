@@ -10,6 +10,12 @@ body {
   flex-wrap: wrap;
   justify-content:center ;
   align-items: center;
+
+  background: url(background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 #root{
   display: flex;
@@ -21,4 +27,26 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+@font-face {
+  font-family: Robot;
+  src: url(space\ age.ttf);
+}
+@font-face {
+  font-family: name;
+  src: url(techno_hideo.ttf);
+}
+h1{
+  font-family: Robot ;
+  font-size: 50px;
+  color: white;
+  font-weight: 400;
+}
+h2{
+
+font-size: 19px;
+  color: antiquewhite;
+}
+p{
+  color: antiquewhite;
 }

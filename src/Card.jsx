@@ -1,9 +1,11 @@
 import React from "react";
 import './Card.css'
-import robot from './robots.js'
-const Card = ({name,id,email})=>{
+
+const Card = ({name,id,email,backgroundImage})=>{
     return(
-        <div className="Card">
+        <div className="Card" style={{ backgroundImage: `url(${backgroundImage})`,
+                                        backgroundRepeat: 'no-repeat',
+                                        backgroundSize:'cover'}}>
             <div className="image">
                 <img src={`https://robohash.org/${id}?200x200`} alt="robot iamge"></img>
             </div>
