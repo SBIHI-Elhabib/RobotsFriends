@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/RobotsFriends/static/css/main.033633ad.chunk.css",
+    "main.css": "/RobotsFriends/static/css/main.6297034d.chunk.css",
     "main.js": "/RobotsFriends/static/js/main.000349ba.chunk.js",
     "main.js.map": "/RobotsFriends/static/js/main.000349ba.chunk.js.map",
     "runtime-main.js": "/RobotsFriends/static/js/runtime-main.4238dc82.js",
@@ -10,9 +10,9 @@
     "static/js/3.d89474ee.chunk.js": "/RobotsFriends/static/js/3.d89474ee.chunk.js",
     "static/js/3.d89474ee.chunk.js.map": "/RobotsFriends/static/js/3.d89474ee.chunk.js.map",
     "index.html": "/RobotsFriends/index.html",
-    "precache-manifest.fc519da8c651b478808d48b7d01b7cd6.js": "/RobotsFriends/precache-manifest.fc519da8c651b478808d48b7d01b7cd6.js",
+    "precache-manifest.addf0597240e53ad547fd34a63776774.js": "/RobotsFriends/precache-manifest.addf0597240e53ad547fd34a63776774.js",
     "service-worker.js": "/RobotsFriends/service-worker.js",
-    "static/css/main.033633ad.chunk.css.map": "/RobotsFriends/static/css/main.033633ad.chunk.css.map",
+    "static/css/main.6297034d.chunk.css.map": "/RobotsFriends/static/css/main.6297034d.chunk.css.map",
     "static/js/2.3a3ecb4b.chunk.js.LICENSE.txt": "/RobotsFriends/static/js/2.3a3ecb4b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/RobotsFriends/static/media/techno_hideo.647af959.ttf",
     "static/media/cardBackground.jpg": "/RobotsFriends/static/media/cardBackground.ec5f65b3.jpg"
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.4238dc82.js",
     "static/js/2.3a3ecb4b.chunk.js",
-    "static/css/main.033633ad.chunk.css",
+    "static/css/main.6297034d.chunk.css",
     "static/js/main.000349ba.chunk.js"
   ]
 }
